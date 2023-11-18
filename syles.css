@@ -1,0 +1,49 @@
+/* Estilos para la tabla de productos */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.table th, .table td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.table th {
+    background-color: #f2f2f2;
+}
+
+/* Estilos para las imágenes de los productos */
+.product-image {
+    width: 100px; /* Tamaño fijo para las imágenes */
+    height: 100px; /* Tamaño fijo para las imágenes */
+    object-fit: cover; /* Para mantener la relación de aspecto */
+}
+
+/* Estilos para el botón de agregar al carrito */
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+/* Estilos para el encabezado */
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+/* Estilos para el contenedor principal */
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* Centra el contenedor */
+    padding: 20px;
+}
