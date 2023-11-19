@@ -1,8 +1,8 @@
 <?php
 $productos = array(
     array("id" => 1, "nombre" => "MICROONDAS 20 L BLANCO INNOVA", "imagen" => "img/01.jpg", "descripcion" => "20 litros, panel digital, cocción rápida, 700 watts de potencia, reloj, temporizador", "precio" => 69.00),
-    array("id" => 2, "nombre" => "SANDUCHERA P/2 PANES SMART HOME REF 0499", "imagen" => "img/02.jpg", "descripcion" => "Sanduchera para 2 panes, doble indicador de luces, placas antiadherentes.", "precio" => 22.99),
-    array("id" => 3, "nombre" => "REFRIGERADORA 298 L FRENCH DOBLE CAJON ELECTROLUX CROMADA", "imagen" => "img/03.jpg", "descripcion" => "Electrolux crea la mejor forma de conservar tus alimentos y tenerlos siempre frescos.", "precio" => 779.00),
+    array("id" => 2, "nombre" => "SANDUCHERA P/2 PANES SMART HOME REF 0499", "imagen" => "img/03.jpg", "descripcion" => "Sanduchera para 2 panes, doble indicador de luces, placas antiadherentes.", "precio" => 22.99),
+    array("id" => 3, "nombre" => "REFRIGERADORA 298 L FRENCH DOBLE CAJON ELECTROLUX CROMADA", "imagen" => "img/02.jpg", "descripcion" => "Electrolux crea la mejor forma de conservar tus alimentos y tenerlos siempre frescos.", "precio" => 779.00),
 
 );
 ?> 
